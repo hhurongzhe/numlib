@@ -1,0 +1,6 @@
+# build dir
+build/
+
+# others
+.vscode/
+.DS_Store
